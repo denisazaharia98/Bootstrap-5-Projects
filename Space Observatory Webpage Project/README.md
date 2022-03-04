@@ -1,0 +1,21 @@
+Space Observatory Website Project
+This project is inspired by the Udemy course: https://www.udemy.com/share/101v0q3@YMrao6ucZyhesZHKMA82n7GMjK5CdO1VrP_-Wuf0L4O0pFo56bqEA9Rm9DUWVgGfkQ==/
+
+# Screenshot
+
+![1](./my_design/desktop-design.png)
+![2](./my_design/mobile-design.png)
+
+# Links
+
+- Solution URL: 
+- Live Site URL: 
+
+# Built with
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
+- Bootstrap 5
+
+#Useful resources
