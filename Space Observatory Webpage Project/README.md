@@ -8,7 +8,7 @@ This project is inspired by the Udemy course: https://www.udemy.com/share/101v0q
 
 # Links
 
-- Solution URL: 
+- Solution URL: https://github.com/denisazaharia98/Bootstrap-5-Projects/tree/main/Space%20Observatory%20Webpage%20Project
 - Live Site URL: 
 
 # Built with
