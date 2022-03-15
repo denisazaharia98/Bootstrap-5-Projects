@@ -1,4 +1,5 @@
-Space Observatory Website Project
+Space Observatory Website Project.
+
 This project is inspired by the Udemy course: https://www.udemy.com/share/101v0q3@YMrao6ucZyhesZHKMA82n7GMjK5CdO1VrP_-Wuf0L4O0pFo56bqEA9Rm9DUWVgGfkQ==/
 
 # Screenshot
